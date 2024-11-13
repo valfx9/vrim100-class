@@ -1052,3 +1052,17 @@ The following settings have been applied:
 [2024.11.13-01.10.13:292][711]LogContentValidation: Display: Validating asset /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
 [2024.11.13-01.10.13:292][711]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
 [2024.11.13-01.11.04:131][ 17]LogDerivedDataCache: C:/Users/valen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.13-01.18.12:215][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.13-01.18.12:284][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.11.13-01.18.12:295][446]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.11.13-01.18.12:296][446]LogSavePackage: Moving '../../../../../../Valentina/Drexel/2024-2025/VRIM 100/Demos/Version Control In Class/vrim100_version_ctrl/Saved/VRTemplateMap1564386F49604392BD46EAA5E070E290.tmp' to '../../../../../../Valentina/Drexel/2024-2025/VRIM 100/Demos/Version Control In Class/vrim100_version_ctrl/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.11.13-01.18.12:301][446]LogFileHelpers: All files are already saved.
+[2024.11.13-01.18.12:301][446]LogFileHelpers: Saving map 'VRTemplateMap' took 0.030
+[2024.11.13-01.18.12:313][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.907 ms (total: 217.806 ms)
+[2024.11.13-01.18.12:374][446]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.13-01.18.12:374][446]LogContentValidation: Enabled validators:
+[2024.11.13-01.18.12:374][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.13-01.18.12:374][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.13-01.18.12:374][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.13-01.18.12:374][446]LogContentValidation: Display: Validating asset /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.11.13-01.18.12:374][446]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset

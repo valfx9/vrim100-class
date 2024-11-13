@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 junk/
+vrim100_version_ctrl/Saved/Telemetry/Telemetry.json
